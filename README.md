@@ -5,9 +5,10 @@ performance test fuzzy search libs [JavaScript]
 ```
 // node index.js
 
-fuzzaldrin 1: 2.755ms
-fuzzaldrin 2: 1.846ms
-fuzzaldrin-plus 1: 2.027ms
-fuzzaldrin-plus 2: 0.754ms
-fuse.js: 10.380ms
+fuzzaldrin 1: 2.757ms
+fuzzaldrin 2: 1.463ms
+fuzzaldrin-plus 1: 2.024ms
+fuzzaldrin-plus 2: 0.746ms
+fuzzysearch 1: 0.330ms
+fuse.js: 10.406ms
 ```
