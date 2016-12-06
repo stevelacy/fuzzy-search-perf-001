@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "fuse.js": "^2.5.0",
-    "fuzzaldrin": "^2.1.0"
+    "fuzzaldrin": "^2.1.0",
+    "fuzzaldrin-plus": "^0.4.1"
   }
 }
